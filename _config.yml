@@ -4,7 +4,7 @@
 
 title: CSED # the website title (if blank, full name will be used instead)
 first_name: Help
-middle_name:
+middle_name: R
 last_name: Seeking
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
